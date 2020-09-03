@@ -1,0 +1,11 @@
+.Container{
+    background-color: white;
+    padding:16px 16px 16px 16px;
+    border-top-style: solid;
+    border-color:#1BA94C;
+    border-radius:10px 10px 10px 10px ;
+    border-top-width: 40px;
+    position: relative;
+    left:190px;
+    top:50px;
+}
